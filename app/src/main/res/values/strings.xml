@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAccountKit</string>
+
+    <string name="FACEBOOK_APP_ID">930585330440183</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">4ee1e31e8fe5832cd7f280c1eeb2fda8</string>
+    <string name="logPhoNum">LOGIN WITH PHONE NUMBER</string>
+
+</resources>
